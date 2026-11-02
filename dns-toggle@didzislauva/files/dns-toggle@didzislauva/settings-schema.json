@@ -1,0 +1,24 @@
+{
+  "custom-dns": {
+    "type": "entry",
+    "default": "",
+    "description": "Custom DNS server",
+    "tooltip": "Enter one or more IPv4 addresses, separated by spaces or commas. Example: 192.0.2.53"
+  },
+  "custom-name": {
+    "type": "entry",
+    "default": "Custom",
+    "description": "Name shown for custom DNS"
+  },
+  "alternate-dns": {
+    "type": "entry",
+    "default": "8.8.8.8, 8.8.4.4",
+    "description": "DNS servers when custom DNS is off",
+    "tooltip": "Enter one or more IPv4 addresses, separated by spaces or commas. The default is Google DNS."
+  },
+  "alternate-name": {
+    "type": "entry",
+    "default": "Google",
+    "description": "Name shown for alternate DNS"
+  }
+}

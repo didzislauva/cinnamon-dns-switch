@@ -1,0 +1,5 @@
+{
+  "uuid": "dns-toggle@didzislauva",
+  "name": "DNS Switch",
+  "description": "Switch the active Wi-Fi between custom and alternate DNS servers"
+}
